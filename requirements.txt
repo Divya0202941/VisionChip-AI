@@ -1,0 +1,9 @@
+opencv-python
+numpy
+tensorflow
+torch
+torchvision
+matplotlib
+flask
+pandas
+scikit-learn
